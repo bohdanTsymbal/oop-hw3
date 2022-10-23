@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "K28_Tsymbal_HW3", "K28_Tsymbal_HW3\K28_Tsymbal_HW3.csproj", "{06ED1093-0CFA-4124-8A8C-24DC80F8C317}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_1_2_2", "K28_Tsymbal_HW3\Task_1_2_2.csproj", "{06ED1093-0CFA-4124-8A8C-24DC80F8C317}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_1_2_3", "Task_1_2_3\Task_1_2_3.csproj", "{A48494E9-9C00-4737-8466-4204575BF3C1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{06ED1093-0CFA-4124-8A8C-24DC80F8C317}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06ED1093-0CFA-4124-8A8C-24DC80F8C317}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06ED1093-0CFA-4124-8A8C-24DC80F8C317}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A48494E9-9C00-4737-8466-4204575BF3C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A48494E9-9C00-4737-8466-4204575BF3C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A48494E9-9C00-4737-8466-4204575BF3C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A48494E9-9C00-4737-8466-4204575BF3C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

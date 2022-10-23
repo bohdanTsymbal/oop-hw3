@@ -1,0 +1,15 @@
+D:\University\OOP\K28_Tsymbal_HW3\K28_Tsymbal_HW3\bin\Debug\net6.0\Task_1_2_2.exe
+D:\University\OOP\K28_Tsymbal_HW3\K28_Tsymbal_HW3\bin\Debug\net6.0\Task_1_2_2.deps.json
+D:\University\OOP\K28_Tsymbal_HW3\K28_Tsymbal_HW3\bin\Debug\net6.0\Task_1_2_2.runtimeconfig.json
+D:\University\OOP\K28_Tsymbal_HW3\K28_Tsymbal_HW3\bin\Debug\net6.0\Task_1_2_2.dll
+D:\University\OOP\K28_Tsymbal_HW3\K28_Tsymbal_HW3\bin\Debug\net6.0\Task_1_2_2.pdb
+D:\University\OOP\K28_Tsymbal_HW3\K28_Tsymbal_HW3\obj\Debug\net6.0\Task_1_2_2.csproj.AssemblyReference.cache
+D:\University\OOP\K28_Tsymbal_HW3\K28_Tsymbal_HW3\obj\Debug\net6.0\Task_1_2_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\OOP\K28_Tsymbal_HW3\K28_Tsymbal_HW3\obj\Debug\net6.0\Task_1_2_2.AssemblyInfoInputs.cache
+D:\University\OOP\K28_Tsymbal_HW3\K28_Tsymbal_HW3\obj\Debug\net6.0\Task_1_2_2.AssemblyInfo.cs
+D:\University\OOP\K28_Tsymbal_HW3\K28_Tsymbal_HW3\obj\Debug\net6.0\Task_1_2_2.csproj.CoreCompileInputs.cache
+D:\University\OOP\K28_Tsymbal_HW3\K28_Tsymbal_HW3\obj\Debug\net6.0\Task_1_2_2.dll
+D:\University\OOP\K28_Tsymbal_HW3\K28_Tsymbal_HW3\obj\Debug\net6.0\refint\Task_1_2_2.dll
+D:\University\OOP\K28_Tsymbal_HW3\K28_Tsymbal_HW3\obj\Debug\net6.0\Task_1_2_2.pdb
+D:\University\OOP\K28_Tsymbal_HW3\K28_Tsymbal_HW3\obj\Debug\net6.0\Task_1_2_2.genruntimeconfig.cache
+D:\University\OOP\K28_Tsymbal_HW3\K28_Tsymbal_HW3\obj\Debug\net6.0\ref\Task_1_2_2.dll
