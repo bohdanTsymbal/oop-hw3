@@ -16,21 +16,25 @@ namespace Task_2_2
         public Manager(string name) : base(name)
         {
             Position = "Менеджер";
-            WorkDay = "8 hours a day, 5 day a week";
+            WorkDay = "";
             random = new Random();
         }
 
         public override void FillWorkDay()
         {
+            List<string> workDayList = new() { };
+
             int callsNumber = random.Next(1, 11);
             for (int i = 0; i < callsNumber; i++)
-                Call();
+                workDayList.Add(Call());
 
-            Relax();
+            workDayList.Add(Relax());
 
             callsNumber = random.Next(1, 6);
             for (int i = 0; i < callsNumber; i++)
-                Call();
+                workDayList.Add(Call());
+
+            WorkDay = string.Join(", ", workDayList.ToArray());
         }
     }
 }

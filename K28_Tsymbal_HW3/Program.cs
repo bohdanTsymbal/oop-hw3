@@ -1,12 +1,6 @@
 ﻿var input = Console.ReadLine();
 
-if (input == null)
-{
-    Console.WriteLine("Failed to read your input, sorry...");
-    return;
-}
-
-if (String.IsNullOrEmpty(input))
+if (string.IsNullOrEmpty(input))
 {
     Console.WriteLine("Failed to read your input, you should enter some text here!");
     return;

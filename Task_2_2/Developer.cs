@@ -14,15 +14,13 @@ namespace Task_2_2
         public Developer(string name) : base(name)
         {
             Position = "Розробник";
-            WorkDay = "24 hours a day, 7 days a week";
+            WorkDay = "";
         }
 
         public override void FillWorkDay()
         {
-            WriteCode();
-            Call();
-            Relax();
-            WriteCode();
+            List<string> workDayList = new() { WriteCode(), Call(), Relax(), WriteCode() };
+            WorkDay = string.Join(", ", workDayList.ToArray());
         }
     }
 }

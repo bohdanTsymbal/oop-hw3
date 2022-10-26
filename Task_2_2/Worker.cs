@@ -14,19 +14,19 @@ namespace Task_2_2
 
         public Worker(string name) => Name = name;
 
-        public static void Call()
+        public static string Call()
         {
-            Console.WriteLine("Make a call");
+            return "made a call";
         }
 
-        public static void WriteCode()
+        public static string WriteCode()
         {
-            Console.WriteLine("Write some code");
+            return "wrote some code";
         }
 
-        public static void Relax()
+        public static string Relax()
         {
-            Console.WriteLine("Just relax a bit");
+            return "relaxed a bit";
         }
 
         public abstract void FillWorkDay();
